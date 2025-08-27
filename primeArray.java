@@ -1,4 +1,4 @@
-package practiceProgram;
+package PracticeProgram;
 import java.util.Scanner;
 public class primeArray {
 	public static void main(String[] args) {
@@ -28,3 +28,4 @@ public class primeArray {
 			return true;
 		}
 }
+
