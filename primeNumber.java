@@ -1,4 +1,4 @@
-package practiceProgram;
+package PracticeProgram;
 import java.util.Scanner;
 public class primeNumber {
 	public static void main(String[] args) {
@@ -18,3 +18,4 @@ public class primeNumber {
 			System.out.print("It is not a prime");
 	}
 }
+
